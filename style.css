@@ -1,0 +1,166 @@
+header{ 
+    background-color: gray;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    
+    
+    
+}
+
+.cloths{
+
+    border: 2px solid black;
+    margin: 10px;
+    background-color: rgb(77, 145, 145);
+    padding: 5px;
+    
+}
+
+.product{
+
+    border: 2px solid black;
+    margin: 10px;
+    background-color: rgb(77, 145, 145);
+    padding: 5px;
+    
+}
+.materials{
+
+    border: 2px solid black;
+    margin: 10px;
+    background-color: rgb(77, 145, 145);
+    padding: 5px;
+    
+}
+
+.clothss{
+
+    border: 2px solid black;
+    margin: 10px;
+    background-color: rgb(77, 145, 145);
+    padding: 5px;
+    
+}
+
+.ledtv{
+
+    border: 2px solid black;
+    margin: 10px;
+    background-color: rgb(77, 145, 145);
+    padding: 5px;
+    
+}
+
+.pants{
+    border: 2px solid black;
+    margin: 10px;
+    background-color: rgb(77, 145, 145);
+    padding: 5px;
+    
+}
+
+.searchbar{
+     
+     
+     
+     margin-left: 600px;
+     border: 2px solid black;
+     border-radius: 5px;
+     height: 20px;
+     margin-top: 5px;
+     
+     
+}
+
+.search{
+
+
+    
+     margin-right: 100px;
+     border: 2px solid black;
+     border-radius: 30px;
+     background-color: aquamarine;
+     height: 20px;
+}
+body{
+    background-color: rgb(209, 212, 216);
+}
+
+.personal{
+    display: flex;
+    justify-content: end;
+    height: 22px;
+    
+}
+.personal1{
+    display: flex;
+    justify-content: end;
+    
+}
+.button{
+    display: flex;
+    justify-content: end;
+}
+.contact{
+    display: flex;
+    justify-content: end;
+}
+
+.myntra{
+
+    display: flex;
+    justify-content: end;
+    height: 40px;
+    
+}
+
+.credit{
+    display: flex;
+    justify-content: end;
+    margin-top: 10px;
+    
+
+}
+.coupans{
+    display: flex;
+    justify-content: end;
+    height: 40px;
+}
+.bcolor{
+    background-color: brown;
+}
+
+a{
+    color: black;
+}
+
+.login{
+    
+margin-left: 600px;
+margin-top: 50px;
+text-align: center;
+border: 2px solid black;
+width: 50%;
+width: 300px;
+font-size: 30px;
+padding: 10px;
+border-radius: 20px;
+background-color: darkgrey;
+margin-top: 100px;
+
+}
+.bbcolor{
+    background-color: rgb(211, 80, 5);
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.name{
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.password{
+    border: 2px solid black;
+    border-radius: 5px;
+}
